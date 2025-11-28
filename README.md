@@ -1,10 +1,3 @@
-A curious mind who loves diving into data, decoding trends, and making insights sparkle.
-
-Technical Skills
-SQL: MySQL, Google BigQuery
-Power BI: DAX, Power Query, Data Modeling
-Python: Pandas, NumPy, MatPlotLib, Seaborn
-Projects for sharing
-Ecommerce_Analysis https://github.com/hieuphan97/Ecommerce-Analysis
-Education & Certificates
-University of Economics HCM City - Industrial Ecommerce (October 2025) GPA 8.38/10. Completed 20 DataCamp course and finished 6 hands-on project from beginners to advanced level (SQL).
+1. Sales Performance Analysis Dashboard: Dự án này giới thiệu một dashboard phân tích kinh doanh tương tác, cung cấp cái nhìn sâu sắc về hiệu suất bán hàng, lợi nhuận, và các xu hướng theo khu vực, danh mục sản phẩm, và thời gian.
+2. Tổng quan Dự án Dashboard này được thiết kế để giúp các bên liên quan: Đánh giá tổng thể hiệu suất kinh doanh (Doanh thu, Lợi nhuận, Tỷ suất Lợi nhuận) so với năm trước.Phân tích chi tiết doanh thu và lợi nhuận theo Danh mục sản phẩm (Furniture, Office Supplies, Technology) và Khu vực.Xác định các khu vực, bang/thành phố hoạt động tốt nhất (Top 15 Locations).Theo dõi các xu hướng theo thời gian (năm, tháng) và tỷ lệ trả hàng (Returns).
+3. Công nghệ Sử dụng BI Tool: Power BI (dựa trên giao diện và tính năng) hoặc công cụ BI tương đương.Nguồn dữ liệu: Tập dữ liệu bán hàng chi tiết (Sales Transaction Data).
